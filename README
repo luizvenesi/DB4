@@ -1,0 +1,5 @@
+# iOS app in swift 3
+
+App load a Firebase database and display in a custom table image and a few information of a Senator from Brazil.
+
+The idea will create a social media to displays the expenses our politics.
